@@ -1,0 +1,14 @@
+/* css styles */
+.navbar {
+  background-color: #d9230f !important;
+  border-color: #b21f0f !important;
+}
+
+.navbar a,
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar a:hover {
+  color: #ffd6cc !important;
+}
